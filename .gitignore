@@ -1,0 +1,13 @@
+# Excel temporary files
+~$*.xlsx
+
+# Excel backup files
+*.xlk
+*.bak
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Mac system files
+.DS_Store
